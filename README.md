@@ -1,4 +1,4 @@
-# 🏦 SIimulador de Cajero Automatico (ATM)
+# 🏦 Simulador de Cajero Automatico (ATM)
 
 **Trabajo Práctico Nº 2 - Programación III**  
 Carrera: Ingeniería en Sistemas de Información  
@@ -34,14 +34,14 @@ Ademas, incluye un sistema de logging que registra cada operacion con fecha, mon
 ✔ Realizar depósitos  
 ✔ Realizar extracciones con validaciones  
 ✔ Transferencias entre cuentas  
-✔ Historial de últimas 10 transacciones  
+✔ Historial de últimas 10 transacciones
+✔ Logging de operaciones con formato
+✔ Interfaz de usuario por consola
 ✔ Manejo de excepciones:
 - PIN incorrecto  
 - Saldo insuficiente  
 - Cuenta inactiva  
 - Límite de extracción excedido
-✔ Logging de operaciones con formato
-✔ Interfaz de usuario por consola
 
 ---
 
