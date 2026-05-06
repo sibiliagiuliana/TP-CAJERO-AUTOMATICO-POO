@@ -47,7 +47,7 @@ Ademas, incluye un sistema de logging que registra cada operacion con fecha, mon
 
 ## 📂 Estructura del proyecto
 
-- `model` → clases principales (Libro, Estudiante, Prestamo)  
+- `model` → clases principales   
 - `service` → lógica de negocio  
 - `exception` → excepciones personalizadas
 - `util` → clases auxiliares para formateo y logging (Formato, Logger)
