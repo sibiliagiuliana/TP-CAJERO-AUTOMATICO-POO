@@ -9,15 +9,15 @@ Carrera: Ingeniería en Sistemas de Información
 
 - Hernández Domínguez Tatiana Ayelen - DNI: 45.563.479  
 - Ochoa Candela Maribel - DNI: 46.401.137  
-- Sibilia María Giuliana - DNI: 46.723.876  
+- Sibilia María Giuliana - DNI: 46.723.876
 
 ---
 
 ## 📖 Descripción del Proyecto
 
-Simulacion de un cajero automático, permitiendo realizar operaciones bancarias básicas con validaciones, manejo de excepciones y registro de transacciones.
-Permite gestionar cuentas bancarias y realizar operaciones como depósitos, extracciones y transferencias entre cuentas.
-Además, incluye un historial de transacciones y un sistema de logging que registra cada operación con fecha, monto y saldo resultante.
+Simulacion de un cajero automatico que permite realizar operaciones bancarias basicas con validaciones, manejo de excepciones y registro de transacciones.
+Ademas, incluye un sistema de logging que registra cada operacion con fecha, monto y saldo resultante.
+
 ---
 
 ## 🛠️ Tecnologías utilizadas
@@ -39,9 +39,9 @@ Además, incluye un historial de transacciones y un sistema de logging que regis
 - PIN incorrecto  
 - Saldo insuficiente  
 - Cuenta inactiva  
-- Límite de extracción excedido  
+- Límite de extracción excedido
 ✔ Logging de operaciones con formato
-✔ Interfaz de usuario por consola:
+✔ Interfaz de usuario por consola
 
 ---
 
