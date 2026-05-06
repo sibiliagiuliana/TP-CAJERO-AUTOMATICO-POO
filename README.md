@@ -51,7 +51,9 @@ Ademas, incluye un sistema de logging que registra cada operacion con fecha, mon
 - `service` → lógica de negocio  
 - `exception` → excepciones personalizadas
 - `util` → clases auxiliares para formateo y logging (Formato, Logger)
-- `ui` → clase Main (interfaz de ejecución)  
+- `ui` → clase Main (interfaz de ejecución) 
+
+---
 
 ## 📊 Diagrama de estados de una cuenta
 <img width="371" height="202" alt="Diagrama  drawio" src="https://github.com/user-attachments/assets/6dd55fd0-76cc-47f6-b2b6-c9a8301f6e81" />
